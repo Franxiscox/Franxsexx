@@ -106,10 +106,8 @@ global.desc2 = '' // Add long description (90 caractres max) (Este parámetro se
 global.country = '' // Add country, example: 🇪🇨
 //------------------------------------------------
 global.fantasy = "𝐍𝐚𝐭𝐬𝐮𝐤𝐢𝐁𝐨𝐭 ᵖᵒʷᵒʳᵉᵈ ᵇʸ\n𝔚𝔦𝔩𝔪𝔢𝔯 𝖔𝖋𝖎𝖈𝖎𝖆𝖑" // new name
-global.wilmerofc = "𝐍𝐚𝐭𝐬𝐮𝐤𝐢𝐁𝐨𝐭 ☃️" // fkontak2
-global.packname = `├┈‧͙⁺˚･༓☾ 𝚆𝙸𝙻𝙼𝙴𝚁 𝙾𝙵𝙲 ☽༓･˚⁺‧͙\n├┈ ⟴ 𝚈𝚘𝚞𝚃𝚞𝚋𝚎:\n├┈ @wilmer.oficial\n├┈ ⟴ 𝙸𝚗𝚜𝚝𝚊𝚐𝚛𝚊𝚖:\n├┈ @cmwilmer4\n╰⊱⊶⊷⊶⊷⊶⊷⊶⊷⇲⊰⌏`
-global.author =  ` ├┈‧͙･༓☾ 𝚆𝙸𝙻𝙼𝙴𝚁 𝙾𝙵𝙲 ☽༓･˚\n├┈⟴ 𝙶𝚒𝚝𝙷𝚞𝚋:\n├┈ Wilsmac\n├┈ ⟴ 𝙿𝚊𝚢𝙿𝚊𝚕:\n├┈ @wilmermacu1\n╰⊱⊶⊷⊶⊷⊶⊷⊶⊷⇲⊰⌏`
-
+global.packname = `├┈☾𝕱𝖗𝖆𝖓 𝕾𝖙𝖆𝖓𝖑𝖊𝖞☽\n├┈⟴𝙶𝚒𝚝𝙷𝚞𝚋:\n├┈@Franxiscox\n├┈⟴𝙸𝚗𝚜𝚝𝚊𝚐𝚛𝚊𝚖:\n├┈@Franx_sexx\n├┈⟴Numero Del Owner:\n├┈ +595984101796\n╰⊱⊶⊷⊶⊷⊶⊷⊶⊷⇲⊰⌏`
+global.author = `├┈☾𝕭𝖔𝖙 𝕱𝖗𝖆𝖓 𝕾𝖙𝖆𝖓𝖑𝖊𝖞☽\n├┈⟴𝙶𝚒𝚝𝙷𝚞𝚋:\n├┈@Franxiscoz\n├┈⟴𝙸𝚗𝚜𝚝𝚊𝚐𝚛𝚊𝚖\n├┈@Fran_sexx\n├┈⟴Numero Del Bot:\n├┈+595982579354\n╰⊱⊶⊷⊶⊷⊶⊷⊶⊶⊶⊷⇲⊰⌏`
 //----------------------------------------------------------
 
 
