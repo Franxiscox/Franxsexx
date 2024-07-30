@@ -1,5 +1,5 @@
 {
-"name": "NatsukiBot",
+"name": "Franxsexx",
 "version": "1.8.0", 
 "description": "Super Bot WhatsApp",
 "main": "index.js",
@@ -17,16 +17,16 @@
 "test": "node test.js",
 "test2": "nodemon index.js" },
 
-"homepage": "https://github.com/Wilsmac/NatsukiBot",
+"homepage": "https://github.com/Franxiscox/Franxsexx",
 "author": {
 "name": "Wilsmac" },
 
 "repository": {
 "type": "git",
-"url": "git+https://github.com/Wilsmac/NatsukiBot.git" },
+"url": "git+https://github.com/Franxiscox/Franxsexx.git" },
 
 "bugs": {
-"url": "https://github.com/Wilsmac/NatsukiBot/issues" },
+"url": "https://github.com/Franxiscox/Franxsexx/issues" },
 "license": "GPL-3.0-or-later",
 "dependencies": {
 "@whiskeysockets/baileys": "npm:@whiskeysockets/baileys@6.7.2",
