@@ -11,15 +11,15 @@ import { en, es, id, ar, pt } from "./lib/idiomas/total-idiomas.js"
 
 // [ Agrega el número que será Bot y los que serán propietarios. ]
 global.owner = [
-["50250101139", 'Wilmer ofc', true],
-["50258115623"], 
-["51967997782"]
+["595984101796", '𝕱𝖗𝖆𝖓 𝕾𝖙𝖆𝖓𝖑𝖊𝖞ت', true],
+["595982579354"], 
+[""]
 ]
 
 global.mods = []
 global.prems = []
 
-global.tagusario = ['50250101139'];
+global.tagusario = ['595982579354'];
 
 global.obtenerQrWeb = 0; //1 o 0
 global.keepAliveRender = 0; // 1 o 0
@@ -94,25 +94,27 @@ global.moment = moment
 //------------------------------------------------
 
 global.official = [
-["50250101139", 'Wilmer ofc', 1], 
-["50258115623", '𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1],  
-["51996416792", '𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1],
-["50250101139", '𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿𝗮 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1],
-["50258115623", 'Soporte', 1]]
+["595984101796", '𝕱𝖗𝖆𝖓 𝕾𝖙𝖆𝖓𝖑𝖊𝖞ت', 1], 
+["595982579354", '  𝕭𝖔𝖙 𝕱𝖗𝖆𝖓 𝕾𝖙𝖆𝖓𝖑𝖊𝖞ت', 1],  
+["", '  ', ],
+["", '  ', ],
+["", '', ]]
 
 global.mail = '' // Add email
 global.desc = '' // Add short description (20 caractres max)
 global.desc2 = '' // Add long description (90 caractres max) (Este parámetro se aplicará sólo si su whasapp no tiene descripción)
-global.country = '' // Add country, example: 🇪🇨
+global.country = '' // Add country, example: 🇵🇾
 //------------------------------------------------
-global.fantasy = "𝐍𝐚𝐭𝐬𝐮𝐤𝐢𝐁𝐨𝐭 ᵖᵒʷᵒʳᵉᵈ ᵇʸ\n𝔚𝔦𝔩𝔪𝔢𝔯 𝖔𝖋𝖎𝖈𝖎𝖆𝖑" // new name
-global.packname = `├┈☾𝕱𝖗𝖆𝖓 𝕾𝖙𝖆𝖓𝖑𝖊𝖞☽\n├┈⟴𝙶𝚒𝚝𝙷𝚞𝚋:\n├┈@Franxiscox\n├┈⟴𝙸𝚗𝚜𝚝𝚊𝚐𝚛𝚊𝚖:\n├┈@Franx_sexx\n├┈⟴Numero Del Owner:\n├┈+595984101796\n╰⊱⊶⊷⊶⊷⊶⊷⊶⊷⇲⊰⌏`
+global.fantasy = "𝕭𝖔𝖙 𝕱𝖗𝖆𝖓 𝕾𝖙𝖆𝖓𝖑𝖊𝖞ت ᵖᵒʷᵒʳᵉᵈ ᵇʸ\𝕱𝖗𝖆𝖓 𝕾𝖙𝖆𝖓𝖑𝖊𝖞ت 𝖔𝖋𝖎𝖈𝖎𝖆𝖑" // new name
+global.wilmerofc = "𝕭𝖔𝖙 𝕱𝖗𝖆𝖓 𝕾𝖙𝖆𝖓𝖑𝖊𝖞ت ☃️" // fkontak2
+global.packname = `├┈☾𝕱𝖗𝖆𝖓 𝕾𝖙𝖆𝖓𝖑𝖊𝖞☽\n├┈⟴𝙶𝚒𝚝𝙷𝚞𝚋:\n├┈@Franxiscox\n├┈⟴𝙸𝚗𝚜𝚝𝚊𝚐𝚛𝚊𝚖:\n├┈@Franx_sexx\n├┈⟴Numero Del Owner:\n├┈ +595984101796\n╰⊱⊶⊷⊶⊷⊶⊷⊶⊷⇲⊰⌏`
 global.author = `├┈☾𝕭𝖔𝖙 𝕱𝖗𝖆𝖓 𝕾𝖙𝖆𝖓𝖑𝖊𝖞☽\n├┈⟴𝙶𝚒𝚝𝙷𝚞𝚋:\n├┈@Franxiscoz\n├┈⟴𝙸𝚗𝚜𝚝𝚊𝚐𝚛𝚊𝚖\n├┈@Fran_sexx\n├┈⟴Numero Del Bot:\n├┈+595982579354\n╰⊱⊶⊷⊶⊷⊶⊷⊶⊶⊶⊷⇲⊰⌏`
+
 //----------------------------------------------------------
 
 
 global.estilo2 = { key: {  fromMe: false, participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "5219992095479-1625305606@g.us" } : {}) }, message: { orderMessage: { itemCount : -999999, status: 1, surface : 1, message: fantasy, orderTitle: 'Bang', thumbnail: catalogo, sellerJid: '0@s.whatsapp.net'}}}
-global.textia = `ᴘᴏᴡʀᴇᴅ ʙʏ ᴡɪʟᴍᴇʀ`
+global.textia = `ᴘᴏᴡʀᴇᴅ ʙʏ 𝕱𝖗𝖆𝖓 𝕾𝖙𝖆𝖓𝖑𝖊𝖞ت`
 
 
 //-------------------------------------------------------------
@@ -135,37 +137,37 @@ global.tiempo = d.toLocaleString('en-US', {hour: 'numeric', minute: 'numeric', s
 
 global.vs = "1.8.0"
 global.vsJB = "3.0"
-global.gt = "𝐍𝐚𝐭𝐬𝐮𝐤𝐢𝐁𝐨𝐭 ☃️"
+global.gt = "𝕭𝖔𝖙 𝕱𝖗𝖆𝖓 𝕾𝖙𝖆𝖓𝖑𝖊𝖞ت ☃️"
 
-global.canalofc = "https://whatsapp.com/channel/0029VaCUlPX0LKZAlP10pC43"
-global.yt = "https://youtube.com/@wilmer.oficial"
-global.yt2 = "https://www.youtube.com/watch?v=Ko019wvu2Tc&t=71s"
-global.ig = "https://www.instagram.com/cmwilmer4"
-global.md = "https://github.com/Wilsmac"
-global.fb = "https://www.facebook.com/groups/1039865800178898/?ref=share"
-global.tk = "https://www.tiktok.com/@wilsmac4"
-global.ths = "https://www.threads.net/@cmwilmer4"
-global.paypal = 'https://paypal.me/'
-global.asistencia = 'https://wa.me/message/C45GXBEFTPONE1' //Contacto
-global.bot = 'wa.me/50250101139'
+global.canalofc = "https://whatsapp.com/channel/0029VadVRGNJENy4OzMh590a"
+global.yt = "https://www.youtube.com/@Franx_sexx"
+global.yt2 = "https://www.youtube.com/@Franx_sexx"
+global.ig = "https://www.instagram.com/franx_sexx"
+global.md = "https://github.com/Franxiscox"
+global.fb = "https://www.facebook.com/Franxiscoxx"
+global.tk = "https://www.tiktok.com/@franx_xiscox"
+global.ths = "https://www.threads.net/@Franx_sexx"
+global.paypal = 'https://www.instagram.com/franx_sexx'
+global.asistencia = 'wa.me/+595984101796' //Contacto
+global.bot = 'wa.me/+595982579354'
 
-global.nna = 'https://www.atom.bio/Wilsmac/' // Cuentas
-global.nn2 = 'https://t.me/' // 
-global.nna2 = 'https://chat.whatsapp.com/EAxOACyzjB6JhkRvQvw4zl' //Anime y social 
-global.nn = 'https://chat.whatsapp.com/CPASQk25rExCIEdlkrOfBz' // FantasyBot-MD 
-global.nnn = 'https://chat.whatsapp.com/CPASQk25rExCIEdlkrOfBz' // FantasyBot-MD 
-global.nnnt = 'https://whatsapp.com/channel/0029VaCUlPX0LKZAlP10pC43' // canal 
-global.nnntt = 'https://whatsapp.com/channel/0029VaCUlPX0LKZAlP10pC43' // canal 
-global.nnnttt = 'https://chat.whatsapp.com/CPASQk25rExCIEdlkrOfBz' // FantasyBot-MD 
-global.nnnttt1 = 'https://chat.whatsapp.com/EAxOACyzjB6JhkRvQvw4zl' // Anime y social 
-global.nnnttt2 = 'https://whatsapp.com/channel/0029VaCUlPX0LKZAlP10pC43' // canal
-global.nnnttt3 = 'https://whatsapp.com/channel/0029VaCUlPX0LKZAlP10pC43' // canal
-global.nnnttt4 = 'https://whatsapp.com/channel/0029VaCUlPX0LKZAlP10pC43' // canal 
-global.nnnttt5 = 'https://chat.whatsapp.com/EAxOACyzjB6JhkRvQvw4zl' // anime y social 
-global.nnnttt6 = 'https://chat.whatsapp.com/CPASQk25rExCIEdlkrOfBz' // FantasyBot-MD 
-global.channel1 = 'https://whatsapp.com/channel/0029VaCUlPX0LKZAlP10pC43'
-global.channel2 = 'https://whatsapp.com/channel/0029VaCUlPX0LKZAlP10pC43'
-global.channel3 = 'https://t.me/'
+global.nna = 'https://www.atom.bio/FranStanley/' // Cuentas
+global.nn2 = 'https://t.me/Franx_xiscox' // 
+global.nna2 = 'https://chat.whatsapp.com/H9G333jkb542LdG1YQny0U' //Anime y social 
+global.nn = 'https://chat.whatsapp.com/H9G333jkb542LdG1YQny0U' // FantasyBot-MD 
+global.nnn = 'https://chat.whatsapp.com/H9G333jkb542LdG1YQny0U' // FantasyBot-MD 
+global.nnnt = 'https://whatsapp.com/channel/0029VadVRGNJENy4OzMh590a' // canal 
+global.nnntt = 'https://whatsapp.com/channel/0029VadVRGNJENy4OzMh590a' // canal 
+global.nnnttt = 'https://chat.whatsapp.com/H9G333jkb542LdG1YQny0U' // FantasyBot-MD 
+global.nnnttt1 = 'https://chat.whatsapp.com/H9G333jkb542LdG1YQny0U' // Anime y social 
+global.nnnttt2 = 'https://whatsapp.com/channel/0029VadVRGNJENy4OzMh590a' // canal
+global.nnnttt3 = 'https://whatsapp.com/channel/0029VadVRGNJENy4OzMh590a' // canal
+global.nnnttt4 = 'https://whatsapp.com/channel/0029VadVRGNJENy4OzMh590a' // canal 
+global.nnnttt5 = 'https://chat.whatsapp.com/H9G333jkb542LdG1YQny0U' // anime y social 
+global.nnnttt6 = 'https://chat.whatsapp.com/H9G333jkb542LdG1YQny0U' // FantasyBot-MD 
+global.channel1 = 'https://whatsapp.com/channel/0029VadVRGNJENy4OzMh590a'
+global.channel2 = 'https://whatsapp.com/channel/0029VadVRGNJENy4OzMh590a'
+global.channel3 = 'https://t.me/Franx_xiscox'
 //------------------------------------------------
 
 
@@ -194,14 +196,14 @@ global.exito = eg
 
 //------------------------------------------------
 
-global.wm = "𝑾𝒊𝒍𝒎𝒆𝒓 𝒐𝒇𝒄"
-global.igfg = "𝐍𝐚𝐭𝐬𝐮𝐤𝐢𝐁𝐨𝐭 🌺"
+global.wm = "𝕱𝖗𝖆𝖓 𝕾𝖙𝖆𝖓𝖑𝖊𝖞ت"
+global.igfg = "𝕭𝖔𝖙 𝕱𝖗𝖆𝖓 𝕾𝖙𝖆𝖓𝖑𝖊𝖞ت 🌺"
 global.wait = "⌛ *`Cargando...`*\n*✦✦⊹⊹⊹⊹⊹⊹⊹⊹✪* `[20%]`"
 global.waitt = "⏳ *`Cargando....`*\n*✦✦✦✦⊹⊹⊹⊹⊹⊹✪* `[40%]`"
 global.waittt = "⌛ *`Cargando...`*\n*✦✦✦✦✦✦⊹⊹⊹⊹✪* `[60%]`"
 global.waitttt = "⏳ *`Cargando....`*\n*✦✦✦✦✦✦✦✦⊹⊹✪* `[80%]`"
 global.waittttt = "⌛ *`Procesando...`*\n*✦✦✦✦✦✦✦✦✦✦✪* `[100%]`"
-global.nomorown = "50250101139"
+global.nomorown = "595984101796"
 global.pdoc = ["application/vnd.openxmlformats-officedocument.presentationml.presentation", "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet", "application/vnd.openxmlformats-officedocument.wordprocessingml.document", "application/vnd.ms-excel", "application/msword", "application/pdf", "text/rtf"]
 
 //-----------------------------------------------
@@ -221,29 +223,29 @@ global.imagen11 = fs.readFileSync("./media/menus/img10.jpg")
 global.imagen12 = fs.readFileSync("./media/menus/img11.jpg")
 global.imagen13 = fs.readFileSync("./media/menus/img12.jpg")
 
-global.img = 'https://telegra.ph/file/6114942024c7658478830.jpg'
-global.img2 = 'https://telegra.ph/file/6114942024c7658478830.jpg'
+global.img = 'https://i.imgur.com/aS7fTMj.jpeg'
+global.img2 = 'https://i.imgur.com/PuKi5pi.jpeg'
 
-global.img3 = 'https://i.imgur.com/oUAGYc2.jpg' //prem
-global.img4 = 'https://i.imgur.com/i0pccuo.jpg' //prem
+global.img3 = 'https://i.imgur.com/sfFFIHa.jpeg' //prem
+global.img4 = 'https://i.imgur.com/5tMb34h.jpeg' //prem
 
-global.img5 = 'https://telegra.ph/file/6114942024c7658478830.jpg'
-global.img6 = 'https://telegra.ph/file/6114942024c7658478830.jpg'
-global.img7 = 'https://telegra.ph/file/418da430e42952c392751.jpg'
-global.img8 = 'https://telegra.ph/file/418da430e42952c392751.jpg'
-global.img9 = 'https://telegra.ph/file/418da430e42952c392751.jpg'
+global.img5 = 'https://i.imgur.com/9VHdFVf.jpeg'
+global.img6 = 'https://i.imgur.com/ozXyb2v.jpeg'
+global.img7 = 'https://i.imgur.com/tbDty95.jpeg'
+global.img8 = 'https://i.imgur.com/46bpXTf.jpeg'
+global.img9 = 'https://i.imgur.com/iE6F9rr.jpeg'
 
-global.img10 = 'https://telegra.ph/file/6114942024c7658478830.jpg'
-global.img11 = 'https://telegra.ph/file/418da430e42952c392751.jpg'
-global.img12 = 'https://telegra.ph/file/418da430e42952c392751.jpg'
-global.img13 = 'https://i.imgur.com/pCfFOgw.jpeg'
-global.img14 = 'https://telegra.ph/file/418da430e42952c392751.jpg'
-global.img15 = 'https://telegra.ph/file/418da430e42952c392751.jpg'
+global.img10 = 'https://i.imgur.com/xI21ZIf.jpeg'
+global.img11 = 'https://i.imgur.com/0qj3dQ2.jpeg'
+global.img12 = 'https://i.imgur.com/UIbK21m.jpeg'
+global.img13 = 'https://i.imgur.com/pXAPWPk.jpeg'
+global.img14 = 'https://i.imgur.com/zwo6IVm.jpeg'
+global.img15 = 'https://i.imgur.com/94tIk8H.jpeg'
 
-global.img16 = 'https://telegra.ph/file/6114942024c7658478830.jpg' //+18
+global.img16 = 'https://i.imgur.com/53cTQHr.jpeg' //+18
 
-global.img17 = 'https://telegra.ph/file/6114942024c7658478830.jpg'
-global.img18 = 'https://telegra.ph/file/6114942024c7658478830.jpg'
+global.img17 = 'https://i.imgur.com/jNIc8pw.jpeg'
+global.img18 = 'https://i.imgur.com/jYb2t9C.jpeg'
 
 global.logogit = 'https://tinyurl.com/2qvl9vgs'
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
