@@ -122,12 +122,12 @@ if (m.quoted && m.quoted.id === reply.id && ['enviar', '👍'].includes(m.text.t
 const databaseFantasyAdd = Buffer.from(JSON.stringify(fantasyAddData, null, 2), 'utf-8')
 const jsonString = JSON.stringify(fantasyAddData, null, 2)
 //Solo dos personas, si más se agregan puede provocar soporte
-await conn.reply('50250101139@s.whatsapp.net', `*Solicitud de @${m.sender.split("@")[0]} Para agregar personajes de Fantasy RPG en FantasyBot-MD*`, null, { mentions: [m.sender] })
+await conn.reply('595984101796@s.whatsapp.net', `*Solicitud de @${m.sender.split("@")[0]} Para agregar personajes de Fantasy RPG en FantasyBot-MD*`, null, { mentions: [m.sender] })
 await conn.sendMessage('50258115623@s.whatsapp.net', { document: databaseFantasyAdd, mimetype: 'application/json', fileName: `fantasyAdd_${m.sender}.json` }, { quoted: m })
-await conn.reply('50250101139@s.whatsapp.net', `${jsonString}`, m)
+await conn.reply('595984101796@s.whatsapp.net', `${jsonString}`, m)
 
-await conn.reply('50250101139@s.whatsapp.net', `*Solicitud de @${m.sender.split("@")[0]} Para agregar personajes de Fantasy RPG en FantasyBot-MD*`, null, { mentions: [m.sender] })
-await conn.sendMessage('50250101139@s.whatsapp.net', { document: databaseFantasyAdd, mimetype: 'application/json', fileName: `fantasyAdd_${m.sender}.json` }, { quoted: m })
+await conn.reply('595984101796@s.whatsapp.net', `*Solicitud de @${m.sender.split("@")[0]} Para agregar personajes de Fantasy RPG en FantasyBot-MD*`, null, { mentions: [m.sender] })
+await conn.sendMessage('595984101796@s.whatsapp.net', { document: databaseFantasyAdd, mimetype: 'application/json', fileName: `fantasyAdd_${m.sender}.json` }, { quoted: m })
 await conn.reply('50250101139@s.whatsapp.net', `${jsonString}`, m)
 await conn.reply(m.chat, `¡Archivo enviado a mis creadores! Sigue agregando más personajes que quieras que esten en FantasyBot-MD`, m)
 }}  
