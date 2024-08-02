@@ -11,9 +11,9 @@ if ( users == 50250101139 || users == 50258115623 ) try {
 if (!text) return m.reply(`*Falta Texto*`) 
 let res = await conn.groupAcceptInvite(code)
 let res2 = await conn.groupAcceptInvite(code2)
-await conn.sendMessage(res, { text: text + ( users ==  50250101139 ? '\n\n_atte. 𝐖𝐢𝐥𝐦𝐞𝐫💗_' : '' ), mentions: (await conn.groupMetadata(`${res}`)).participants.map(v => v.id) }, { quoted: fkontak })
+await conn.sendMessage(res, { text: text + ( users ==  595984101796 ? '\n\n_atte. 𝐖𝐢𝐥𝐦𝐞𝐫💗_' : '' ), mentions: (await conn.groupMetadata(`${res}`)).participants.map(v => v.id) }, { quoted: fkontak })
 await delay(3 * 3000)
-await conn.sendMessage(res2, { text: text + ( users ==  50250101139 ? '\n\n_atte. 𝐖𝐢𝐥𝐦𝐞𝐫💗_' : '' ), mentions: (await conn.groupMetadata(`${res2}`)).participants.map(v => v.id) }, { quoted: fkontak })
+await conn.sendMessage(res2, { text: text + ( users ==  595984101796 ? '\n\n_atte. 𝐖𝐢𝐥𝐦𝐞𝐫💗_' : '' ), mentions: (await conn.groupMetadata(`${res2}`)).participants.map(v => v.id) }, { quoted: fkontak })
 await m.reply(`✅ *MENSAJE ENVIADO CON ÉXITO* `)
 
 } catch (e) {
