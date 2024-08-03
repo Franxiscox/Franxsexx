@@ -46,6 +46,7 @@ listSections.push({
   sections
 }) 
 
+
 await natsuki.sendList(m.chat, `*𝚂𝙴𝙻𝙴𝙲𝙲𝙸𝙾𝙽𝙴 𝚂𝚄 𝚃𝙸𝙿𝙾 𝙳𝙴 𝙳𝙴𝚂𝙲𝙰𝚁𝙶𝙰, 𝙽𝙾𝙼𝙱𝚁𝙴 𝙳𝙴 𝙻𝙰 𝙱𝚄𝚂𝚀𝚄𝙴𝙳𝙰:  ${text}*`, `\n𝙳𝙴𝚂𝙲𝙰𝚁𝙶𝙰𝚂* `, `𝙴𝙻𝙴𝙹𝙸𝚁`, listSections, {quoted: fkontak});
 } catch (e) {
 await natsuki.reply(m.chat, `${lenguajeCD['smsMalError3']()}#report ${lenguajeCD['smsMensError2']()} ${usedPrefix + command}\n\n${wm}`, fkontak, m)
@@ -82,9 +83,8 @@ const hDisplay = h > 0 ? h + (h == 1 ? ' hora, ' : ' horas, ') : '';
 const mDisplay = m > 0 ? m + (m == 1 ? ' minuto, ' : ' minutos, ') : '';
 const sDisplay = s > 0 ? s + (s == 1 ? ' segundo' : ' segundos') : '';
 return dDisplay + hDisplay + mDisplay + sDisplay;
-}*/
-
-
+}
+*/
 
 import fetch from "node-fetch"
 import yts from "yt-search"
