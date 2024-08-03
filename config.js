@@ -108,7 +108,7 @@ global.country = '' // Add country, example: 🇵🇾
 global.fantasy = "𝕭𝖔𝖙 𝕱𝖗𝖆𝖓 𝕾𝖙𝖆𝖓𝖑𝖊𝖞ت ᵖᵒʷᵒʳᵉᵈ ᵇʸ\𝕱𝖗𝖆𝖓 𝕾𝖙𝖆𝖓𝖑𝖊𝖞ت 𝖔𝖋𝖎𝖈𝖎𝖆𝖑" // new name
 global.wilmerofc = "𝕭𝖔𝖙 𝕱𝖗𝖆𝖓 𝕾𝖙𝖆𝖓𝖑𝖊𝖞ت ☃️" // fkontak2
 global.packname = `├┈☾𝕱𝖗𝖆𝖓 𝕾𝖙𝖆𝖓𝖑𝖊𝖞☽\n├┈⟴𝙶𝚒𝚝𝙷𝚞𝚋:\n├┈@Franxiscox\n├┈⟴𝙸𝚗𝚜𝚝𝚊𝚐𝚛𝚊𝚖:\n├┈@Franx_sexx\n├┈⟴Numero Del Owner:\n├┈ +595984101796\n╰⊱⊶⊷⊶⊷⊶⊷⊶⊷⇲⊰⌏`
-global.author = `├┈☾𝕭𝖔𝖙 𝕱𝖗𝖆𝖓 𝕾𝖙𝖆𝖓𝖑𝖊𝖞☽\n├┈⟴𝙶𝚒𝚝𝙷𝚞𝚋:\n├┈@Franxiscox\n├┈⟴𝙸𝚗𝚜𝚝𝚊𝚐𝚛𝚊𝚖:\n├┈@Fran_sexx\n├┈⟴Numero Del Bot:\n├┈+595982579354\n╰⊱⊶⊷⊶⊷⊶⊷⊶⊶⊶⊷⇲⊰⌏`
+global.author = `├┈☾𝕭𝖔𝖙 𝕱𝖗𝖆𝖓 𝕾𝖙𝖆𝖓𝖑𝖊𝖞☽\n├┈⟴𝙶𝚒𝚝𝙷𝚞𝚋:\n├┈@Franxiscox\n├┈⟴𝙸𝚗𝚜𝚝𝚊𝚐𝚛𝚊𝚖:\n├┈@Franx_sexx\n├┈⟴Numero Del Bot:\n├┈+595982579354\n╰⊱⊶⊷⊶⊷⊶⊷⊶⊶⊶⊷⇲⊰⌏`
 
 //----------------------------------------------------------
 
